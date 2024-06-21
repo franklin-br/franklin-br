@@ -1,5 +1,9 @@
 ### Hi there 👋
+![Franklin's Stats](https://github-readme-stats.vercel.app/api?username=Franklin&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
+![Franklin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Franklin&theme=gotham&hide_border=false)
+
+![Franklin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 <!--
 **franklin-br/franklin-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
